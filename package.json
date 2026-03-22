@@ -1,0 +1,1 @@
+{"name": "object-storage-movie", "version": "1.0.0", "description": "A movie storage application with admin dashboard.", "main": "server.js", "scripts": {"test": "echo \"Error: no test specified\" && exit 1"}, "author": "zero341", "license": "ISC", "dependencies": {"express": "^4.17.1"}}
